@@ -692,6 +692,7 @@
 	force_wielded = 25
 	minstr_req = TRUE
 	smeltresult = /obj/item/ingot/silver
+	is_silver = TRUE
 
 /obj/item/rogueweapon/sword/long/exe/silver/ComponentInitialize()
 	AddComponent(\
